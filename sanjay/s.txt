@@ -1,0 +1,5 @@
+echo "enter 2 numbers:";read num1 num2;echo "sum:$(($num1+$num2))"
+enter 2 numbers:
+10 20
+sum:30
+
